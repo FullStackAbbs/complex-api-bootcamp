@@ -1,6 +1,6 @@
-# 📊 Project: Complex API 
+# 🚀 Project: Complex NASA API
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
 ### How to submit your code for review:
 
